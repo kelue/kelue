@@ -1,7 +1,7 @@
 # Nzeamalu Chikelue Austine
 **Senior Fullstack & Infrastructure Engineer** | Distributed Systems • Cloud & Kubernetes • Observability • AI Automation
 
-I bridge the gap between application architecture and production infrastructure. With a background in Computer Engineering and 6+ years building enterprise financial systems and cloud-native platforms, I specialize in owning the entire software lifecycle—from database schema design and full-stack product delivery to Kubernetes orchestration, zero-downtime deployments, and deep distributed observability.
+I bridge the gap between application architecture and production infrastructure. With a background in Computer Engineering and 6+ years building enterprise financial systems and cloud-native platforms, I specialize in owning the entire software lifecycle, from database schema design and full-stack product delivery to Kubernetes orchestration, zero-downtime deployments, and deep distributed observability.
 
 ---
 
@@ -19,9 +19,9 @@ I bridge the gap between application architecture and production infrastructure.
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, Java, Go (Fundamentals), SQL, Bash |
+| **Languages** | Python, TypeScript, JavaScript, Java, Go & Rust (Fundamentals), SQL, Bash |
 | **Backend & ERP** | Django, FastAPI, Node.js, NestJS, Spring Boot, Frappe / ERPNext, Celery |
-| **Frontend** | React, Vue.js, Tailwind CSS, State Management (Pinia/Redux) |
+| **Frontend** | Vue.js, Angular |
 | **Cloud & Orchestration** | AWS (EC2, RDS, S3, EKS, IAM, Lambda), Kubernetes, Docker, Terraform, Nginx |
 | **Observability & CI/CD** | OpenTelemetry, Prometheus, Grafana, Loki, Tempo, Sentry, GitHub Actions |
 | **Databases & Caching** | PostgreSQL, MySQL, MariaDB, Redis, MongoDB |
